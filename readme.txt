@@ -1,13 +1,4 @@
-*******************************************************
-*  Name      :Ayan Tuladhar          
-*******************************************************
-
-
-                 Read Me
-
-
-*******************************************************
-*  Description of the program
+Description of the program
 *******************************************************
 This program helps to build a simple reverse echo server and a client using a TCP socket where the server and client runs at different machines. The reverse echo server receives a message from a client over a TCP socket and replies the same message back to the source in reverse order.
 
